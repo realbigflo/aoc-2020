@@ -1,0 +1,9 @@
+Day 1: Report 
+== C++
+
+- Source was compiled with clang
+- used clang-format and clang-tidy
+
+=== Today I learned
+- string views are interesting (I avoided std::string)
+- string handling in C++ is ugly - especially converting from string / string_view to integer
