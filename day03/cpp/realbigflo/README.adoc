@@ -1,0 +1,10 @@
+Day 3: Report 
+== C++
+
+- Source was compiled with clang
+- used clang-format and clang-tidy
+
+=== Today I learned
+- Not too much ... 
+- Unique_ptr are sometimes ugly but very nice when you want to control the scope
+- Probably the code can be even cleaner when using maps for the star2 input - but I was lazy today
